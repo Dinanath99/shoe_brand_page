@@ -10,7 +10,7 @@ const Hero = () => {
 
 
                 <div className='hero-button'>
-                    <button>Show now</button>
+                    <button>Shop now</button>
                     <button className='secondary-button'>Category</button>
                 </div>
 
